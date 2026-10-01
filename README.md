@@ -1,11 +1,11 @@
 # TP_REDES
-# 📡 Escáner de Red Local (Java Swing)
+#  Escáner de Red Local (Java Swing)
 
 Aplicación gráfica desarrollada en **Java** para auditar y escanear direcciones IP dentro de una red local (LAN). Permite identificar equipos activos, resolver nombres de host vía DNS inverso, medir latencias de respuesta y exportar los resultados a formato CSV.
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - **Escaneo por rango IPv4:** Define una IP de inicio y una IP de fin para auditar la subred.
 - **Verificación de estado (ICMP Ping):** Comprueba si los dispositivos se encuentran encendidos y alcanzables.
@@ -17,7 +17,7 @@ Aplicación gráfica desarrollada en **Java** para auditar y escanear direccione
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 - **Lenguaje:** Java (JDK 11 o superior)
 - **Interfaz Gráfica:** Java Swing / AWT
@@ -27,7 +27,7 @@ Aplicación gráfica desarrollada en **Java** para auditar y escanear direccione
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 El código está organizado siguiendo una arquitectura por capas (MVC-like):
 
